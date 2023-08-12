@@ -1,0 +1,1 @@
+# poem_app_static_public
